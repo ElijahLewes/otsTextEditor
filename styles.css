@@ -1,0 +1,15 @@
+/* add openDyslexic location URL */
+@font-face {
+    font-family: OpenDyslexicRegular;
+    src: url();
+}
+@font-face {
+    font-family: OpenDyslexicBold;
+    src: url();
+}
+@font-face {
+    font-family: OpenDyslexicItalic;
+    src: url();
+}
+
+btns nshit

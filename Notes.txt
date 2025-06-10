@@ -1,0 +1,3 @@
+- Use full text search (FTS5) module for SQLite to query files stored in DB:
+https://www.sqlite.org/fts5.html
+
